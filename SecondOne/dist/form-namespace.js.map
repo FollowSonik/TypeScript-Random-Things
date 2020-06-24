@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "form-namespace.js",
+  "sourceRoot": "",
+  "sources": [
+    "../src/form-namespace.ts"
+  ],
+  "names": [],
+  "mappings": ""
+}
